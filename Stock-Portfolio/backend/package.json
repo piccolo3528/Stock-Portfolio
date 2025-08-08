@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-backend",
+  "version": "1.0.0",
+  "description": "Backend for portfolio analytics dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^4.21.2",
+    "mongoose": "^8.17.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
