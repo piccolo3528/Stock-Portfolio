@@ -1,1 +1,1 @@
-# This is a basic Stock-Protfolio built usin hard coded data
+# This is a basic Stock-Protfolio built using hard coded backend data
